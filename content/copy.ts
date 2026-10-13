@@ -29,5 +29,5 @@ export const copy = {
   unlockLine: "Unlocked.",
 
   /** Footer credit - same as last year. */
-  footer: "Made with \u2665 by Filip \u2022 Vyv \u2022 Karam",
+  footer: "Made with \u2665 by Lily \u2022 ",
 };
